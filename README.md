@@ -6,7 +6,7 @@ OIM3640 Project - Alex Jang, Joyce Lee, Brenden Smith
       and the Brown bear). Its most recognizable feature is a pattern of dark
       vertical stripes on reddish-orange fur with lighter underparts. It has
       exceptionally stout teeth, and the canines are the longest among living
-      felids with a crown height of as much as 74.5 mm (2.93 in) or even 90 mm
+      felids wxith a crown height of as much as 74.5 mm (2.93 in) or even 90 mm
       (3.5 in). <img src="images/tiger1.jpg" alt="Tiger Photo" /> [4] In zoos,
       tigers have lived for 20 to 26 years, which also seems to be their
       longevity in the wild.[5] They are territorial and generally solitary but
